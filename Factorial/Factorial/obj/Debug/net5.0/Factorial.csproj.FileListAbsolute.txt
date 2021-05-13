@@ -1,0 +1,11 @@
+C:\Users\Анечка\Desktop\library\Factorial\Factorial\bin\Debug\net5.0\Factorial.deps.json
+C:\Users\Анечка\Desktop\library\Factorial\Factorial\bin\Debug\net5.0\Factorial.dll
+C:\Users\Анечка\Desktop\library\Factorial\Factorial\bin\Debug\net5.0\ref\Factorial.dll
+C:\Users\Анечка\Desktop\library\Factorial\Factorial\bin\Debug\net5.0\Factorial.pdb
+C:\Users\Анечка\Desktop\library\Factorial\Factorial\obj\Debug\net5.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анечка\Desktop\library\Factorial\Factorial\obj\Debug\net5.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\Анечка\Desktop\library\Factorial\Factorial\obj\Debug\net5.0\Factorial.AssemblyInfo.cs
+C:\Users\Анечка\Desktop\library\Factorial\Factorial\obj\Debug\net5.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Анечка\Desktop\library\Factorial\Factorial\obj\Debug\net5.0\Factorial.dll
+C:\Users\Анечка\Desktop\library\Factorial\Factorial\obj\Debug\net5.0\ref\Factorial.dll
+C:\Users\Анечка\Desktop\library\Factorial\Factorial\obj\Debug\net5.0\Factorial.pdb
