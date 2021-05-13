@@ -1,0 +1,7 @@
+C:\Users\Анечка\Desktop\labs c#\labs4ZAD1\labs4ZAD1\bin\Debug\labs4ZAD1.exe.config
+C:\Users\Анечка\Desktop\labs c#\labs4ZAD1\labs4ZAD1\bin\Debug\labs4ZAD1.exe
+C:\Users\Анечка\Desktop\labs c#\labs4ZAD1\labs4ZAD1\bin\Debug\labs4ZAD1.pdb
+C:\Users\Анечка\Desktop\labs c#\labs4ZAD1\labs4ZAD1\obj\Debug\labs4ZAD1.csprojAssemblyReference.cache
+C:\Users\Анечка\Desktop\labs c#\labs4ZAD1\labs4ZAD1\obj\Debug\labs4ZAD1.csproj.CoreCompileInputs.cache
+C:\Users\Анечка\Desktop\labs c#\labs4ZAD1\labs4ZAD1\obj\Debug\labs4ZAD1.exe
+C:\Users\Анечка\Desktop\labs c#\labs4ZAD1\labs4ZAD1\obj\Debug\labs4ZAD1.pdb
