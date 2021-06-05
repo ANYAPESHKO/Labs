@@ -1,7 +1,0 @@
-C:\Users\Анечка\Desktop\labs c#\Labs3\Labs3\bin\Debug\Labs3.exe.config
-C:\Users\Анечка\Desktop\labs c#\Labs3\Labs3\bin\Debug\Labs3.exe
-C:\Users\Анечка\Desktop\labs c#\Labs3\Labs3\bin\Debug\Labs3.pdb
-C:\Users\Анечка\Desktop\labs c#\Labs3\Labs3\obj\Debug\Labs3.csprojAssemblyReference.cache
-C:\Users\Анечка\Desktop\labs c#\Labs3\Labs3\obj\Debug\Labs3.csproj.CoreCompileInputs.cache
-C:\Users\Анечка\Desktop\labs c#\Labs3\Labs3\obj\Debug\Labs3.exe
-C:\Users\Анечка\Desktop\labs c#\Labs3\Labs3\obj\Debug\Labs3.pdb
