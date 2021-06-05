@@ -1,0 +1,24 @@
+D:\2_term_ISP\5Lab\bin\Debug\netcoreapp3.1\5Lab.exe
+D:\2_term_ISP\5Lab\bin\Debug\netcoreapp3.1\5Lab.deps.json
+D:\2_term_ISP\5Lab\bin\Debug\netcoreapp3.1\5Lab.runtimeconfig.json
+D:\2_term_ISP\5Lab\bin\Debug\netcoreapp3.1\5Lab.runtimeconfig.dev.json
+D:\2_term_ISP\5Lab\bin\Debug\netcoreapp3.1\5Lab.dll
+D:\2_term_ISP\5Lab\bin\Debug\netcoreapp3.1\5Lab.pdb
+D:\2_term_ISP\5Lab\obj\Debug\netcoreapp3.1\5Lab.csprojAssemblyReference.cache
+D:\2_term_ISP\5Lab\obj\Debug\netcoreapp3.1\5Lab.AssemblyInfoInputs.cache
+D:\2_term_ISP\5Lab\obj\Debug\netcoreapp3.1\5Lab.AssemblyInfo.cs
+D:\2_term_ISP\5Lab\obj\Debug\netcoreapp3.1\5Lab.dll
+D:\2_term_ISP\5Lab\obj\Debug\netcoreapp3.1\5Lab.pdb
+C:\Users\Анечка\Desktop\labs 2\2_term_ISP-master\5Lab\bin\Debug\netcoreapp3.1\5Lab.exe
+C:\Users\Анечка\Desktop\labs 2\2_term_ISP-master\5Lab\bin\Debug\netcoreapp3.1\5Lab.deps.json
+C:\Users\Анечка\Desktop\labs 2\2_term_ISP-master\5Lab\bin\Debug\netcoreapp3.1\5Lab.runtimeconfig.json
+C:\Users\Анечка\Desktop\labs 2\2_term_ISP-master\5Lab\bin\Debug\netcoreapp3.1\5Lab.runtimeconfig.dev.json
+C:\Users\Анечка\Desktop\labs 2\2_term_ISP-master\5Lab\bin\Debug\netcoreapp3.1\5Lab.dll
+C:\Users\Анечка\Desktop\labs 2\2_term_ISP-master\5Lab\bin\Debug\netcoreapp3.1\5Lab.pdb
+C:\Users\Анечка\Desktop\labs 2\2_term_ISP-master\5Lab\obj\Debug\netcoreapp3.1\5Lab.csprojAssemblyReference.cache
+C:\Users\Анечка\Desktop\labs 2\2_term_ISP-master\5Lab\obj\Debug\netcoreapp3.1\5Lab.AssemblyInfoInputs.cache
+C:\Users\Анечка\Desktop\labs 2\2_term_ISP-master\5Lab\obj\Debug\netcoreapp3.1\5Lab.AssemblyInfo.cs
+C:\Users\Анечка\Desktop\labs 2\2_term_ISP-master\5Lab\obj\Debug\netcoreapp3.1\5Lab.csproj.CoreCompileInputs.cache
+C:\Users\Анечка\Desktop\labs 2\2_term_ISP-master\5Lab\obj\Debug\netcoreapp3.1\5Lab.dll
+C:\Users\Анечка\Desktop\labs 2\2_term_ISP-master\5Lab\obj\Debug\netcoreapp3.1\5Lab.pdb
+C:\Users\Анечка\Desktop\labs 2\2_term_ISP-master\5Lab\obj\Debug\netcoreapp3.1\5Lab.genruntimeconfig.cache
