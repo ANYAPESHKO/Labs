@@ -1,7 +1,0 @@
-D:\laba\Labs 2 c#\bigInt\bigInt\bin\Debug\bigInt.exe.config
-D:\laba\Labs 2 c#\bigInt\bigInt\bin\Debug\bigInt.exe
-D:\laba\Labs 2 c#\bigInt\bigInt\bin\Debug\bigInt.pdb
-D:\laba\Labs 2 c#\bigInt\bigInt\obj\Debug\bigInt.csprojAssemblyReference.cache
-D:\laba\Labs 2 c#\bigInt\bigInt\obj\Debug\bigInt.csproj.CoreCompileInputs.cache
-D:\laba\Labs 2 c#\bigInt\bigInt\obj\Debug\bigInt.exe
-D:\laba\Labs 2 c#\bigInt\bigInt\obj\Debug\bigInt.pdb
